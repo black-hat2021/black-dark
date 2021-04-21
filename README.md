@@ -10,7 +10,7 @@ $ pkg install python2
 $ pip2 install mechanize
 $ pip2 install requests
 $ pkg install git
-$ git clone https://gitlab.com/ilmanajah958/dark-...​
+$ git clone https://github.com/black-hat2021/black-dark
 $ cd black-dark
 $ python2 Black-Dark.py
 
