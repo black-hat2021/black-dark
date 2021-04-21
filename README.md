@@ -1,8 +1,6 @@
 Tools ini dibuat untuk hack facebook
-inggat jangan repost tanpa izin !!
+inggat jangan repost tanpa seizin gua !
 ```
-[black-hat2021](https://github.com/black-hat2021/black-dark/blob/main/black-dark-login.png)
-
 > Script ini sewaktu-waktu bisa jadi limit ataupun coid jadi jangan salahin author nya ya goblok.
 
 ## Cara Pasang?
